@@ -20,4 +20,4 @@ Open Genome Project. Open-source genome database for XAI (Explainable Artificial
 
 Currently based on [A Survey on Machine Learning Approaches and Its Techniques](https://ieeexplore.ieee.org/document/9087123)
 
-![Classification of Models](../assets/classification_of_models.png)
+![Classification of Models](assets/classification_of_models.png)
