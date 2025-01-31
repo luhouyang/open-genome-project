@@ -16,6 +16,10 @@ Open Genome Project. Open-source genome database for XAI (Explainable Artificial
     - Create more useful AI
     - Create "humanity aligned" AI
 
+## **Explaination & Visualization**
+
+- SHAP (SHapley Additive exPlanations) - [GitHub](https://github.com/shap/shap.git)
+
 ## **Categorization**
 
 Currently based on [A Survey on Machine Learning Approaches and Its Techniques](https://ieeexplore.ieee.org/document/9087123)
