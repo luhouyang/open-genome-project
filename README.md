@@ -1,3 +1,5 @@
+![open-genome project logo](/assets/logo/OG_logo.png)
+
 # **OG-Project**
 
 Open Genome Project. Open-source genome database for XAI (Explainable Artificial Intelligence) Models. 
@@ -18,10 +20,22 @@ Open Genome Project. Open-source genome database for XAI (Explainable Artificial
 
 ## **Explaination & Visualization**
 
-- SHAP (SHapley Additive exPlanations) - [GitHub](https://github.com/shap/shap.git)
+Some reading here [TDS](https://towardsdatascience.com/explainable-ai-xai-a-guide-to-7-packages-in-python-to-explain-your-models-932967f0634b/)
+
+- SHAP (SHapley Additive exPlanations) | [GitHub](https://github.com/shap/shap.git) | [Website](https://shap.readthedocs.io/en/latest/) | [paper](https://arxiv.org/abs/1705.07874)
+
+- Lime (local interpretable model-agnostic explanations) | [GitHub](https://github.com/marcotcr/lime) | [paper](https://arxiv.org/abs/1602.04938)
+
+- ExplainerDashboard | [GitHub](https://github.com/oegedijk/explainerdashboard) | [Medium](https://medium.com/value-stream-design/making-ml-transparent-and-explainable-with-explainerdashboard-49953ae743dd)
+
+- DALEX (moDel Agnostic Language for Exploration and eXplanation) | [GitHub](https://github.com/ModelOriented/DALEX) | [e-book](https://ema.drwhy.ai)
+
+- Explainable Boosting Machines (EBM) | [GitHub](https://github.com/interpretml/interpret) | [paper](https://arxiv.org/abs/1909.09223)
+
+- DiCE (Diverse Counterfactual Explanations) | [GitHub](https://github.com/interpretml/DiCE) | [paper](https://arxiv.org/abs/1905.07697)
 
 ## **Categorization**
 
-Currently based on [A Survey on Machine Learning Approaches and Its Techniques](https://ieeexplore.ieee.org/document/9087123)
+TO BE UPDATED SOON!
 
 ![Classification of Models](assets/classification_of_models.png)
