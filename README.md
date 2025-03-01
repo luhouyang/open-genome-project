@@ -18,7 +18,17 @@ Open Genome Project. Open-source genome database for XAI (Explainable Artificial
     - Create more useful AI
     - Create "humanity aligned" AI
 
-Check out our list of AI-Safety readings [here](/assets/resources)
+**Check out our list of AI-Safety readings [here](/assets/resources)**
+
+## **Benchmarks**
+
+**LLM**
+
+- [TruthfulQA](https://github.com/sylinrl/TruthfulQA)
+
+- [MACHIAVELLI](https://aypan17.github.io/machiavelli/)
+
+- [SimpleBench](https://simple-bench.com)
 
 ## **Explaination & Visualization**
 
