@@ -1,1 +1,85 @@
+# raster image files
+*.webp
+*.tiff
+*.jpg
+*.jpeg
+*.png
+*.heic
+
+# vector image
+*.svg
+
+# compound
+*.pdf
+*.docx
+
+# metadata
+*.gif
+
+# audio
+*.mp3
+
+# video
+*mp4
+
+# model related
+*.pth
+*.pt
+
+# 3D, CAD, geometrical
+*.3mf
+*.aec
+*.amf
+*.easm
+*.dwg
+*.dwf
+*.f3d
+*.gbr
+
+*.off
+*.glb
+*.gltf
+*.ply
+*.obj
+
+# electronic design automation EDA
+*.brd
+
+# database
+*.dat
+
+# compressed
+*.zip
+*.7z
+*.gz
+*.jar
+*.tar
+
+# binaries & executables
+*.bin
+*.img
+*.iso
+*.msi
+*.exe
+*.a
+*.class
+*.o
+*.war
+
+# application packages
+*.abb
+*.apk
+*.appx
+*.app
+*.deb
+*.ipg
+*.rpm
+
+# font
+*.ttf
+*.ttc
+*.woff
+*.otf
+
+# misc. folders & files
 others

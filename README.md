@@ -20,6 +20,12 @@ Open Genome Project. Open-source genome database for XAI (Explainable Artificial
 
 **Check out our list of AI-Safety readings [here](/assets/resources)**
 
+## **Get The Latest**
+
+```
+git clone --depth 1 https://github.com/luhouyang/open-genome-project.git
+```
+
 ## **Benchmarks**
 
 **LLM**
