@@ -1,6 +1,6 @@
 ![open-genome project logo](/assets/logo/OG_logo.png)
 
-# **OG-Project**
+# OG-Project
 
 Open Genome Project. Open-source genome database for XAI (Explainable Artificial Intelligence) Models. 
 
@@ -9,7 +9,7 @@ Open Genome Project. Open-source genome database for XAI (Explainable Artificial
     - Behaviour 
     - Decision making process
 
-    of models. 
+    of models.
 
 1. Help researchers, ML engineers & decision makers
     - Better understand AI
@@ -20,13 +20,13 @@ Open Genome Project. Open-source genome database for XAI (Explainable Artificial
 
 **Check out our list of AI-Safety readings [here](/assets/resources)**
 
-## **Get The Latest**
+## Get The Latest
 
 ```
 git clone --depth 1 https://github.com/luhouyang/open-genome-project.git
 ```
 
-## **Benchmarks**
+## Benchmarks
 
 **LLM**
 
@@ -36,7 +36,7 @@ git clone --depth 1 https://github.com/luhouyang/open-genome-project.git
 
 - [SimpleBench](https://simple-bench.com)
 
-## **Explaination & Visualization**
+## Explaination & Visualization
 
 - SHAP (SHapley Additive exPlanations) | [GitHub](https://github.com/shap/shap.git) | [Website](https://shap.readthedocs.io/en/latest/) | [paper](https://arxiv.org/abs/1705.07874)
 
@@ -50,8 +50,12 @@ git clone --depth 1 https://github.com/luhouyang/open-genome-project.git
 
 - DiCE (Diverse Counterfactual Explanations) | [GitHub](https://github.com/interpretml/DiCE) | [paper](https://arxiv.org/abs/1905.07697)
 
-## **Categorization**
+## Categorization
 
 TO BE UPDATED SOON!
 
 ![Classification of Models](assets/classification_of_models.png)
+
+## Other Useful Things
+
+[Welcome to Python Packages!](https://py-pkgs.org/welcome)

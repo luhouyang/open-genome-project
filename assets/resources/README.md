@@ -1,6 +1,6 @@
 # **Papers To Read**
 
-Interesting & useful research papers on AI alignment, explainability, safety, real world & theoritical applications
+Interesting & useful research papers on AI alignment, explainability, safety, real world & theoretical applications
 
 ## **Chain-of-Thought Reasoning (CoT)**
 
@@ -28,7 +28,7 @@ Interesting & useful research papers on AI alignment, explainability, safety, re
 
 [Alignment faking in large language models](https://arxiv.org/abs/2412.14093)
 
-## **Real World & Theoritical Applications**
+## **Real World & Theoretical Applications**
 
 [Which Economic Tasks are Performed with AI?
 Evidence from Millions of Claude Conversations](https://assets.anthropic.com/m/2e23255f1e84ca97/original/Economic_Tasks_AI_Paper.pdf)
