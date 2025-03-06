@@ -20,6 +20,12 @@ Open Genome Project. Open-source genome database for XAI (Explainable Artificial
 
 **Check out our list of AI-Safety readings [here](/assets/resources)**
 
+Use our toolkit here [https://pypi.org/project/opengenome/](https://pypi.org/project/opengenome/)
+
+Read the docs here [https://opengenome.readthedocs.io/en/latest/](https://opengenome.readthedocs.io/en/latest/)
+
+Visit our website here [https://open-genome-project.org](https://open-genome-project.org)
+
 ## Get The Latest
 
 ```
